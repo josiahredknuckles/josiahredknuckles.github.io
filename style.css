@@ -1,0 +1,97 @@
+h1 {
+    color: #6e68b7;
+    font-family:serif
+ }
+h2 {
+    color:aqua; 
+}
+h2 {
+    color:#2b5d5d;
+    font-family:oswald;
+}
+
+body {
+    background-color: rgba(18, 217, 148, 0.24);
+}
+
+h4 {
+    color: #000000;
+}
+
+#left-col {
+    background-color: #712828 width: 15em;
+    height: 250vh;
+}
+
+#right-col {
+    background-color: rgba(247, 233, 61, 0.26);
+    margin-left: 25em;
+    height: 250vh
+   
+}
+
+#profile-pic {
+    border-radius: 50%;
+}
+
+h1 {
+    color: rgba(76, 141, 170, 0.75);
+}
+
+ul {
+    list-style: none;
+}
+.section-head {
+    margin-top: 2em;
+    color:#50a8a8
+         font-family:serif
+}
+
+#Objective {
+    margin-top: 2em;
+    color:#000000;
+     font-family:oswald;
+}
+
+#Education {
+    margin-top:2em;
+     color:#000000;
+     font-family:oswald;
+}
+
+#WorkExperience {
+    margin-top: 2em;
+     color:#000000;
+    font-family:oswald;
+}
+
+#SeminarsAttended {
+    margin-top: 2em;
+     color:#000000;
+    font-family:oswald;
+}
+
+#ResearchPapers {
+    margin-top: 2em;
+      color:#000000;
+    font-family:oswald;
+}
+
+#PersonalBackground {
+    margin-top: 2em;
+      color:#000000;
+    font-family:oswald;
+}
+
+#References {
+    margin-top: 2em;
+      color:#000000; 
+    font-family:oswald;
+}
+h4 {
+    font-family:oswald;
+} 
+h5 {
+    font-family:oswald;
+}
+
