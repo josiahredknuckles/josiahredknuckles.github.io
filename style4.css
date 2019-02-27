@@ -81,23 +81,21 @@ body {
     display: block;
     height: auto; 
     width: auto; 
-    max-width: 410px; 
-    max-height: 410px;
+    
  vertical-align: middle;
 margin-top: 15px;
 max-width: 100%;
-    width: 105%;
+   width: 105%;
    
 }
 #gif-center{ display: block;
     
     height: auto; 
     width: auto; 
-    max-width: 410px; 
-    max-height: 410px;
+    
  vertical-align: middle;
 margin-top: 15px;
-max-width: 100%;
+max-width:100%;
 
 
 }
