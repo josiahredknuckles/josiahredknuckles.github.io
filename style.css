@@ -1,3 +1,5 @@
+
+
 h1 {
     color: #6e68b7;
     font-family:serif
@@ -11,7 +13,7 @@ h2 {
 }
 
 body {
-    background-color: rgba(18, 217, 148, 0.24);
+    background-color: rgba(37, 255, 179, 0.24);
 }
 
 h4 {
@@ -19,19 +21,22 @@ h4 {
 }
 
 #left-col {
-    background-color: #712828 width: 15em;
+    background-color: #1d1313 width: 50em;
     height: 250vh;
 }
 
 #right-col {
-    background-color: rgba(247, 233, 61, 0.26);
-    margin-left: 25em;
-    height: 250vh
-   
+    background-color: rgba(0, 0, 0, 0.26);
+    margin-left: 40em;
+    width: 2px;
+    height: 450vh;
+   color:#ff0000; 
 }
 
 #profile-pic {
-    border-radius: 50%;
+    border-radius: 30%;
+    
+    
 }
 
 h1 {
@@ -43,7 +48,7 @@ ul {
 }
 .section-head {
     margin-top: 2em;
-    color:#50a8a8
+    color:#679898
          font-family:serif
 }
 
@@ -94,4 +99,3 @@ h4 {
 h5 {
     font-family:oswald;
 }
-

@@ -1,0 +1,126 @@
+h1 {
+    color: #0f0101;
+    
+    font-family:serif;
+    margin-left: -5px;
+    text-align: center
+    
+ }
+h2 {
+    color:#ffffff; 
+}
+h3{
+    color:#f0d5f2;
+    font-family:oswald;
+      text-align-last: center;
+}
+h2 {
+    color:#726fb7;
+    font-family:oswald;
+      text-align-last: center;
+    margin-top: 70px;
+}
+
+body {
+    background-color: rgba(18, 217, 148, 0.24);
+}
+
+h4 {
+    color: #726fb7;
+}
+
+#left-col {
+    
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/2f5cf225-3fed-42e2-819a-6b96622e434f/dc67euh-5e294dbd-c0a1-40b6-a68f-5880544d47b9.png/v1/fill/w_685,h_1166,q_70,strp/aesthetic_ocean_background_by_cosmicstardusttea_dc67euh-pre.jpg);
+    width: 383.9;
+    height: 800px;
+    background-origin: padding-box;
+    background-size:cover;
+    
+   
+}
+
+#right-col {
+    
+
+    margin-left: 25em;
+    height: 150vh
+   
+}
+
+#profile-pic {
+    border-radius: 10%;
+    width: 75%;
+    margin-left: 40px;
+}
+#bottom {
+    
+    border-radius: 10%;
+    width: 75%;
+    margin-left: 50px;
+    margin-bottom: 12px;
+    
+}
+
+h1 {
+    color: rgba(247, 247, 247, 0.75);
+}
+
+ul {
+    list-style: none;
+    margin-left:-60;
+    text-align-last: center;
+    color:azure;
+}
+.section-head {
+    margin-top: 2em;
+    color:#ffffff
+         font-family:serif
+}
+
+#Objective {
+    margin-top: 2em;
+    color:#000000;
+     font-family:oswald;
+}
+
+#Education {
+    margin-top:2em;
+     color:#000000;
+     font-family:oswald;
+}
+
+#WorkExperience {
+    margin-top: 2em;
+     color:#000000;
+    font-family:oswald;
+}
+
+
+#PersonalBackground {
+    margin-top: 2em;
+      color:#000000;
+    font-family:oswald;
+}
+
+
+h4 {
+    font-family:oswald;
+    text-align-last: center;
+} 
+h5 {
+    font-family:oswald;
+      text-align-last: left;
+}
+body{
+    background-image:url(https://1.bp.blogspot.com/-O8uVvGiw_AQ/V72eMJIKRaI/AAAAAAAAObw/OrGU6y2s7QwOXrk7EnDpxXsJXW47kiHIACLcB/s400/pink-purple-fern-wallpaper.png);
+    background-position: center;
+   background-size: 34%;
+    color: aliceblue;
+   
+    }
+p{
+    text-align: center;
+}
+
+

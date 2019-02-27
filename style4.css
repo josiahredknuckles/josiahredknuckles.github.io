@@ -1,0 +1,115 @@
+<style>
+h1, h2 {
+    font-family: 'Anatica. SC', cursive;
+font-weight: 700;
+    text-align: center;
+}
+
+
+body {
+    margin:0;
+}
+
+
+.header {
+    
+    background-color: #f5c8f3;
+    height: 0.5px;
+    text-align:center;
+    color:#1e403c;
+    padding: 1px;
+     font-family:'Anatica. SC', cursive;
+}
+
+.container div {
+    
+    padding:1%;
+    box-sizing: border-box;
+    min-height:500px;
+ background-attachment:fixed;
+}
+
+
+.left-col, .right-col {
+   
+    color: azure;
+    background-color: aquamarine;
+    background-image: url(https://i.pinimg.com/564x/75/99/82/759982f6e82a445cfbc644d2b1646307.jpg?b=t); 
+    background-position: top;
+    font-family: 'Anatica. SC', cursive;
+    
+   
+    width: 33.33333333%;
+    
+    float: left;
+    height: 1050px;
+    
+    
+    
+}
+
+.center-col {
+    color: azure;
+    background-color: beige;
+    background-image:url(https://i.pinimg.com/originals/b8/71/66/b8716649092541f3a8ec33b0e6901829.jpg); 
+    width: 33.33333333%;
+    font-family: 'Anatica. SC', cursive;
+   text-align: center;
+    background-size:cover;
+   
+
+    
+    float:left;
+    height:1050px;
+    ;
+    background-size:auto;
+    background-position:top;
+ 
+   
+   
+}
+.footer{ 
+    clear:both;
+    font-family: 'Anatica. SC', cursive;
+    background-color: aliceblue;
+    text-align: center;
+    height:80px;
+    padding-top: 10px;
+    box-sizing: border-box;
+}
+#gif-bottom{ 
+    display: block;
+    height: auto; 
+    width: auto; 
+    max-width: 410px; 
+    max-height: 410px;
+ vertical-align: middle;
+margin-top: 15px;
+max-width: 100%;
+    width: 105%;
+   
+}
+#gif-center{ display: block;
+    
+    height: auto; 
+    width: auto; 
+    max-width: 410px; 
+    max-height: 410px;
+ vertical-align: middle;
+margin-top: 15px;
+max-width: 100%;
+
+
+}
+.center {
+    display:block;
+        margin-left:auto;
+    margin-right: auto;
+    width: 50%;
+}
+p{margin-left: 1.5px;    
+    
+}
+
+
+</style>
